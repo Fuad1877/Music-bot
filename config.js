@@ -1,22 +1,22 @@
 module.exports = {
     app: {
-        token: 'XXX',
-        playing: 'by Zerio ❤️',
+        token: 'MTAxMzQzMTQ1MDg4MTc1MzA5OA.Ge8wvV.54c8uCJYhBXH0POFqpLpjGvnSQS3JHCJ3SKUD4',
+        playing: 'dev fuad1877 ❤️',
         global: true,
-        guild: 'XXX'
+        guild: '#p'
     },
 
     opt: {
         DJ: {
             enabled: false,
             roleName: '',
-            commands: []
+            commands: [#p]
         },
         maxVol: 100,
         leaveOnEnd: true,
         loopMessage: false,
         spotifyBridge: true,
-        defaultvolume: 75,
+        defaultvolume: 100,
         discordPlayer: {
             ytdlOptions: {
                 quality: 'highestaudio',
